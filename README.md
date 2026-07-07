@@ -31,6 +31,7 @@ I enjoy automating infrastructure, optimizing deployment pipelines, and building
 ---
 
 🔥 Core Skills
+
 ☁️ AWS (EC2, VPC, IAM, S3, ALB, Route53, CloudWatch)
 🐳 Docker & Docker Compose
 ☸️ Kubernetes (EKS, Deployments, Services, Ingress)
