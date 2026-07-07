@@ -28,23 +28,6 @@ DevOps Engineer with **6+ years of experience** in Linux System Administration, 
 
 I enjoy automating infrastructure, optimizing deployment pipelines, and building scalable, secure, and highly available production environments.
 
----
-
-🔥 Core Skills
-
-☁️ AWS (EC2, VPC, IAM, S3, ALB, Route53, CloudWatch)
-🐳 Docker & Docker Compose
-☸️ Kubernetes (EKS, Deployments, Services, Ingress)
-🏗 Terraform (Infrastructure as Code)
-🤖 Ansible Automation
-🔄 Jenkins CI/CD Pipelines
-🐧 Linux (RHEL, CentOS, Ubuntu, Amazon Linux)
-🌐 Nginx & Apache HTTP Server
-🐱 Apache Tomcat
-🗄 PostgreSQL, MySQL & MariaDB
-📦 Git & GitHub
-📜 Shell/Bash Scripting
-📊 Prometheus & Grafana
 
 ---
 
@@ -55,17 +38,6 @@ I enjoy automating infrastructure, optimizing deployment pipelines, and building
 </p>
 
 ---
-💼 What I Build
-Automated AWS infrastructure using Terraform
-CI/CD pipelines using Jenkins & GitHub
-Dockerized Java & MERN applications
-Kubernetes deployments with rolling updates
-Infrastructure provisioning with Ansible
-Reverse proxy configuration using Nginx
-High-availability Linux server deployments
-Production monitoring with Prometheus & Grafana
-
-----
 
 # 🚀 Featured Projects
 
