@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayush Gautam</h1>
-<h3 align="center">🚀 DevOps Engineer | AWS | Kubernetes | Terraform | Ansible | Linux</h3>
+
+<h3 align="center">
+🚀 DevOps Engineer | AWS | Kubernetes | Terraform | Ansible | Linux
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Linux+Administrator;AWS+Cloud+Enthusiast;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Infrastructure+as+Code+(IaC)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Linux+Administrator;AWS+Cloud;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Infrastructure+as+Code+(IaC)" />
 </p>
 
 <p align="center">
@@ -11,111 +14,76 @@
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-DevOps Engineer with **6+ years of experience** in Linux System Administration, Cloud Infrastructure, CI/CD Automation, and Infrastructure as Code.
+DevOps Engineer with **6+ years of experience** in Linux System Administration, Cloud Infrastructure, CI/CD, and Infrastructure Automation.
 
 - ☁️ AWS Cloud Infrastructure & Networking
 - 🐳 Docker & Kubernetes Containerization
-- 🏗 Infrastructure Automation using Terraform & Ansible
-- 🔄 CI/CD Pipelines with Jenkins & GitHub Actions
-- 📊 Monitoring using Prometheus & Grafana
-- 🐧 Linux Administration (RHEL, Ubuntu, Amazon Linux)
-- 🗄 PostgreSQL, MySQL & MariaDB Administration
+- 🏗️ Infrastructure Automation using Terraform & Ansible
+- 🔄 CI/CD Pipelines using Jenkins & GitHub Actions
+- 📊 Monitoring with Prometheus & Grafana
+- 🐧 Linux Administration (RHEL, Ubuntu & Amazon Linux)
+- 🗄️ PostgreSQL, MySQL & MariaDB Administration
 
-I enjoy automating infrastructure, improving deployment workflows, and building scalable, reliable production environments.
+I enjoy automating infrastructure, optimizing deployment pipelines, and building scalable, secure, and highly available production environments.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,ansible,jenkins,bash,git,github,nginx,postgres,mysql,prometheus,grafana,vscode)](https://skillicons.dev)
-
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,ansible,jenkins,git,github,bash,nginx,postgres,mysql,prometheus,grafana,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured DevOps Projects
+# 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| ☁️ **AWS Three-Tier Architecture** | Terraform, VPC, Public/Private Subnets, ALB, NAT Gateway, EC2 |
-| 🏗 **Terraform Infrastructure** | Infrastructure as Code on AWS |
-| 🤖 **Ansible Automation** | Server Provisioning & Configuration |
-| 🐳 **Dockerized MERN Deployment** | Docker, Nginx, MongoDB, Node.js |
-| ☸️ **Kubernetes Deployment** | Deployments, Services, Ingress, ConfigMaps, Secrets |
-| 🔄 **Jenkins CI/CD Pipeline** | Build → Test → Docker → Deploy |
-| 📊 **Monitoring Stack** | Prometheus & Grafana |
+> *(These projects will be added as they are completed.)*
 
----
-
-## 📌 Pinned Repositories
-
-> Replace the repository names with your actual repositories.
-
-<a href="https://github.com/Ayushgautam2007/aws-terraform-3tier">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushgautam2007&repo=aws-terraform-3tier&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Ayushgautam2007/terraform-ec2-ansible">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushgautam2007&repo=terraform-ec2-ansible&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Ayushgautam2007/docker-mern-deployment">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushgautam2007&repo=docker-mern-deployment&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Ayushgautam2007/kubernetes-manifests">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushgautam2007&repo=kubernetes-manifests&theme=tokyonight" />
-</a>
+- ☁️ AWS Three-Tier Architecture using Terraform
+- 🏗️ Terraform Infrastructure on AWS
+- 🤖 Ansible Server Automation
+- 🐳 Dockerized MERN Application Deployment
+- ☸️ Kubernetes Application Deployment
+- 🔄 Jenkins CI/CD Pipeline
+- 📊 Prometheus & Grafana Monitoring Stack
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushgautam2007&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayushgautam2007&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushgautam2007&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Ayushgautam2007&theme=tokyonight&hide_border=true"/>
-
 </p>
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushgautam2007&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Ayushgautam2007&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🌱 Currently Learning
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushgautam2007&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- GitOps (Argo CD)
-- Helm
-- AWS DevOps Best Practices
-- Advanced Kubernetes
-- Observability
+- ☸️ Kubernetes (Advanced)
+- 🚀 GitOps (Argo CD)
+- 📦 Helm
+- ☁️ AWS DevOps Best Practices
+- 📈 Observability & Monitoring
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="left">
 
@@ -131,4 +99,18 @@ I enjoy automating infrastructure, improving deployment workflows, and building 
 
 ---
 
-⭐ **"Automating Infrastructure • Building Reliable Systems • Continuous Learning"**
+# 💡 Goals for 2026
+
+- ✅ Master Kubernetes & Amazon EKS
+- ✅ Build Production-Ready CI/CD Pipelines
+- ✅ Complete Advanced Terraform Projects
+- ✅ Implement GitOps using Argo CD
+- ✅ Earn AWS DevOps Engineer Certification
+
+---
+
+<p align="center">
+
+### ⭐ *"Automating Infrastructure • Building Reliable Systems • Continuous Learning"*
+
+</p>
