@@ -82,8 +82,6 @@ I enjoy automating infrastructure, optimizing deployment pipelines, and building
 
 # 📊 GitHub Statistics
 
-# 📊 GitHub Statistics
-
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayushgautam2007&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ayushgautam2007&layout=compact&theme=github_dark&hide_border=true" />
@@ -98,7 +96,7 @@ I enjoy automating infrastructure, optimizing deployment pipelines, and building
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushgautam2007&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ayushgautam2007&theme=github_dark&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
