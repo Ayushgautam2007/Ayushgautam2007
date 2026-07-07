@@ -30,6 +30,23 @@ I enjoy automating infrastructure, optimizing deployment pipelines, and building
 
 ---
 
+🔥 Core Skills
+☁️ AWS (EC2, VPC, IAM, S3, ALB, Route53, CloudWatch)
+🐳 Docker & Docker Compose
+☸️ Kubernetes (EKS, Deployments, Services, Ingress)
+🏗 Terraform (Infrastructure as Code)
+🤖 Ansible Automation
+🔄 Jenkins CI/CD Pipelines
+🐧 Linux (RHEL, CentOS, Ubuntu, Amazon Linux)
+🌐 Nginx & Apache HTTP Server
+🐱 Apache Tomcat
+🗄 PostgreSQL, MySQL & MariaDB
+📦 Git & GitHub
+📜 Shell/Bash Scripting
+📊 Prometheus & Grafana
+
+---
+
 # 🛠️ Tech Stack
 
 <p align="center">
@@ -37,41 +54,31 @@ I enjoy automating infrastructure, optimizing deployment pipelines, and building
 </p>
 
 ---
+💼 What I Build
+Automated AWS infrastructure using Terraform
+CI/CD pipelines using Jenkins & GitHub
+Dockerized Java & MERN applications
+Kubernetes deployments with rolling updates
+Infrastructure provisioning with Ansible
+Reverse proxy configuration using Nginx
+High-availability Linux server deployments
+Production monitoring with Prometheus & Grafana
+
+----
 
 # 🚀 Featured Projects
 
-> *(These projects will be added as they are completed.)*
-
 - ☁️ AWS Three-Tier Architecture using Terraform
-- 🏗️ Terraform Infrastructure on AWS
+- 🚀 MERN Application Deployment
 - 🤖 Ansible Server Automation
 - 🐳 Dockerized MERN Application Deployment
 - ☸️ Kubernetes Application Deployment
 - 🔄 Jenkins CI/CD Pipeline
-- 📊 Prometheus & Grafana Monitoring Stack
+- 📊 Linux Administration
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayushgautam2007&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushgautam2007&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Ayushgautam2007&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushgautam2007&theme=tokyonight&row=1&column=6" />
-</p>
-
----
 
 # 🌱 Currently Learning
 
@@ -99,18 +106,10 @@ I enjoy automating infrastructure, optimizing deployment pipelines, and building
 
 ---
 
-# 💡 Goals for 2026
-
-- ✅ Master Kubernetes & Amazon EKS
-- ✅ Build Production-Ready CI/CD Pipelines
-- ✅ Complete Advanced Terraform Projects
-- ✅ Implement GitOps using Argo CD
-- ✅ Earn AWS DevOps Engineer Certification
-
----
 
 <p align="center">
 
 ### ⭐ *"Automating Infrastructure • Building Reliable Systems • Continuous Learning"*
+⭐ I enjoy building reliable, scalable, and automated infrastructure using modern DevOps practices.
 
 </p>
