@@ -93,14 +93,6 @@ I enjoy automating infrastructure, optimizing deployment pipelines, and building
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushgautam2007&theme=github_dark&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
-
----
-
 # 🌱 Currently Learning
 
 - ☸️ Advanced Kubernetes
