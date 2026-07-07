@@ -144,45 +144,8 @@ I enjoy building Infrastructure as Code (IaC), automating repetitive tasks, and 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Cloud
 
-AWS
-
-### Containers
-
-Docker • Docker Compose • Kubernetes
-
-### IaC
-
-Terraform • Ansible
-
-### CI/CD
-
-Jenkins • GitHub Actions
-
-### Linux
-
-RHEL • CentOS • Ubuntu • Amazon Linux
-
-### Web Servers
-
-Nginx • Apache HTTP Server • Apache Tomcat
-
-### Databases
-
-PostgreSQL • MySQL • MariaDB
-
-### Monitoring
-
-Prometheus • Grafana
-
-### Version Control
-
-Git • GitHub
-
-### Scripting
-
-Bash
+AWS | Docker | Kubernetes | Terraform | Jenkins | Linux | Git | GitHub | Bash | PostgreSQL | Prometheus | Grafana
 
 ---
 
