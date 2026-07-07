@@ -1,160 +1,134 @@
-# 👋 Hi, I'm Ayush Gautam
+<h1 align="center">Hi 👋, I'm Ayush Gautam</h1>
+<h3 align="center">🚀 DevOps Engineer | AWS | Kubernetes | Terraform | Ansible | Linux</h3>
 
-## 🚀 DevOps Engineer | AWS | Kubernetes | Terraform | Ansible | Linux
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Linux+Administrator;AWS+Cloud+Enthusiast;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Infrastructure+as+Code+(IaC)" />
+</p>
 
-📍 India
-
----
-
-# 💫 About Me
-
-DevOps Engineer with **6+ years of experience** in Linux system administration, cloud infrastructure, CI/CD automation, and application deployment.
-
-I specialize in designing and automating scalable infrastructure using **AWS, Terraform, Docker, Kubernetes, Jenkins, and Ansible**. My experience includes deploying Java and MERN applications, managing production Linux servers, configuring web servers, automating deployments, monitoring infrastructure, and improving system reliability.
-
-I enjoy building Infrastructure as Code (IaC), automating repetitive tasks, and implementing modern DevOps practices.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayushgautam2007&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-# 🔥 Core Skills
+## 💫 About Me
 
-* ☁️ AWS (EC2, VPC, IAM, S3, ALB, Route53, CloudWatch)
-* 🐳 Docker & Docker Compose
-* ☸️ Kubernetes (EKS, Deployments, Services, Ingress)
-* 🏗 Terraform (Infrastructure as Code)
-* 🤖 Ansible Automation
-* 🔄 Jenkins CI/CD Pipelines
-* 🐧 Linux (RHEL, CentOS, Ubuntu, Amazon Linux)
-* 🌐 Nginx & Apache HTTP Server
-* 🐱 Apache Tomcat
-* 🗄 PostgreSQL, MySQL & MariaDB
-* 📦 Git & GitHub
-* 📜 Shell/Bash Scripting
-* 📊 Prometheus & Grafana
+DevOps Engineer with **6+ years of experience** in Linux System Administration, Cloud Infrastructure, CI/CD Automation, and Infrastructure as Code.
+
+- ☁️ AWS Cloud Infrastructure & Networking
+- 🐳 Docker & Kubernetes Containerization
+- 🏗 Infrastructure Automation using Terraform & Ansible
+- 🔄 CI/CD Pipelines with Jenkins & GitHub Actions
+- 📊 Monitoring using Prometheus & Grafana
+- 🐧 Linux Administration (RHEL, Ubuntu, Amazon Linux)
+- 🗄 PostgreSQL, MySQL & MariaDB Administration
+
+I enjoy automating infrastructure, improving deployment workflows, and building scalable, reliable production environments.
 
 ---
 
-# 💼 What I Build
+## 🛠 Tech Stack
 
-* Automated AWS infrastructure using Terraform
-* CI/CD pipelines using Jenkins & GitHub
-* Dockerized Java & MERN applications
-* Kubernetes deployments with rolling updates
-* Infrastructure provisioning with Ansible
-* Reverse proxy configuration using Nginx
-* High-availability Linux server deployments
-* Production monitoring with Prometheus & Grafana
+<p align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,ansible,jenkins,bash,git,github,nginx,postgres,mysql,prometheus,grafana,vscode)](https://skillicons.dev)
+
+</p>
 
 ---
 
-# 📂 Featured Projects
+## 🚀 Featured DevOps Projects
 
-### 🚀 AWS Three-Tier Architecture using Terraform
-
-* VPC
-* Public & Private Subnets
-* NAT Gateway
-* EC2
-* Security Groups
-* Route Tables
-
----
-
-### 🚀 MERN Application Deployment
-
-* Docker
-* Nginx
-* MongoDB
-* PM2
-* AWS EC2
+| Project | Description |
+|---------|-------------|
+| ☁️ **AWS Three-Tier Architecture** | Terraform, VPC, Public/Private Subnets, ALB, NAT Gateway, EC2 |
+| 🏗 **Terraform Infrastructure** | Infrastructure as Code on AWS |
+| 🤖 **Ansible Automation** | Server Provisioning & Configuration |
+| 🐳 **Dockerized MERN Deployment** | Docker, Nginx, MongoDB, Node.js |
+| ☸️ **Kubernetes Deployment** | Deployments, Services, Ingress, ConfigMaps, Secrets |
+| 🔄 **Jenkins CI/CD Pipeline** | Build → Test → Docker → Deploy |
+| 📊 **Monitoring Stack** | Prometheus & Grafana |
 
 ---
 
-### 🚀 Kubernetes Deployment
+## 📌 Pinned Repositories
 
-* Deployments
-* Services
-* ConfigMaps
-* Secrets
-* Ingress
-* Rolling Updates
+> Replace the repository names with your actual repositories.
 
----
+<a href="https://github.com/Ayushgautam2007/aws-terraform-3tier">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushgautam2007&repo=aws-terraform-3tier&theme=tokyonight" />
+</a>
 
-### 🚀 Jenkins CI/CD Pipeline
+<a href="https://github.com/Ayushgautam2007/terraform-ec2-ansible">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushgautam2007&repo=terraform-ec2-ansible&theme=tokyonight" />
+</a>
 
-* Build
-* Test
-* Docker Image
-* Push to Registry
-* Kubernetes Deployment
+<a href="https://github.com/Ayushgautam2007/docker-mern-deployment">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushgautam2007&repo=docker-mern-deployment&theme=tokyonight" />
+</a>
 
----
-
-### 🚀 Ansible Automation
-
-* Server Provisioning
-* Application Deployment
-* User Management
-* Package Installation
+<a href="https://github.com/Ayushgautam2007/kubernetes-manifests">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushgautam2007&repo=kubernetes-manifests&theme=tokyonight" />
+</a>
 
 ---
 
-### 🚀 Linux Administration
+## 📊 GitHub Stats
 
-* Apache
-* Tomcat
-* Nginx
-* PostgreSQL
-* MariaDB
-* Systemd
-* SELinux
-* Firewall
-* Performance Tuning
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Ayushgautam2007&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# 🌱 Currently Learning
+</p>
 
-* GitOps (Argo CD)
-* Helm
-* AWS DevOps
-* Advanced Kubernetes
-* Observability
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ayushgautam2007&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushgautam2007&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# 🛠 Tech Stack
+## 🏆 GitHub Trophies
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+<p align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=Ayushgautam2007&theme=tokyonight&row=1&column=6"/>
 
-AWS | Docker | Kubernetes | Terraform | Jenkins | Linux | Git | GitHub | Bash | PostgreSQL | Prometheus | Grafana
+</p>
 
 ---
 
+## 🌱 Currently Learning
 
-# 🤝 Connect With Me
-
-* LinkedIn: *(Add your LinkedIn URL)*
-* Email: *(Add your professional email)*
+- GitOps (Argo CD)
+- Helm
+- AWS DevOps Best Practices
+- Advanced Kubernetes
+- Observability
 
 ---
 
-⭐ I enjoy building reliable, scalable, and automated infrastructure using modern DevOps practices.
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+⭐ **"Automating Infrastructure • Building Reliable Systems • Continuous Learning"**
