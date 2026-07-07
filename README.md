@@ -110,6 +110,5 @@ Production monitoring with Prometheus & Grafana
 <p align="center">
 
 ### ⭐ *"Automating Infrastructure • Building Reliable Systems • Continuous Learning"*
-⭐ I enjoy building reliable, scalable, and automated infrastructure using modern DevOps practices.
 
 </p>
