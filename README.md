@@ -15,6 +15,11 @@ I specialize in designing and automating scalable infrastructure using **AWS, Te
 I enjoy building Infrastructure as Code (IaC), automating repetitive tasks, and implementing modern DevOps practices.
 
 ---
+# 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,ansible,jenkins,bash,git,github,nginx,postgres,mysql,prometheus,grafana,vscode)](https://skillicons.dev)
+
+---
 
 # 🔥 Core Skills
 
